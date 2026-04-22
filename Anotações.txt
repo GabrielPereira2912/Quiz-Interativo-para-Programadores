@@ -1,0 +1,11 @@
+TABELAS em HTML
+
+Usa thead para separar a parte de cabeçalho
+Usa tbody para separar a parte do corpo da tabela
+Usa tfoot para separar o rodapé da tabela
+
+Usa tr para escrever antes de qualquer coisa
+
+Usa th para escrever aquelas coisas que são o cabeçalho
+
+Usa td para escrever as linhas normal da tabela
